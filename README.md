@@ -1,2 +1,5 @@
 # flipping_stuff
-Nur für den Einsatz zu Testzwecken unter Beachtung der rechtlichen Grundlagen.
+#### Nur für den Einsatz zu Testzwecken unter Beachtung der rechtlichen Grundlagen.
+
+Konvolut deutscher / ins Deutsche übersetzter Scripte auf RubberDucky-Basis
+`DUCKY_LANG DE` inklusive versteht sich.
