@@ -1,22 +1,22 @@
 # Fun
-Visuals, zum Kennenlernen in Sachen Scripting
+Visuals, just to get started with scripting
 
 ### flipper_ad
-notepad prompt - Flipper war hier
+notepad prompt - Flipper was here
 
 ### hackery_typing
-Website Interaktion nach Skript-Kiddy Style
+Website Interaction with some flashy vibes
 
 ### i_was_here
-Personalisierte Nachricht für alle, die Ihr device nicht locken
+personalized message for someone who doesn't lock his device
 
 ### imperial_PS
-Star Wars Theme live aus deiner PowerShell
+Star Wars theme live from your PowerShell
 
 ### matrix_wake_up
-Szene aus Matrix - Kontaktaufnahme zu Neo (mit Sound)
+Scene from Matrix - Contacting Neo (with Sound)
 
 ### Rickroll
 Rick Astins finest...
 
-#### Nur für den Einsatz zu Testzwecken unter Beachtung der rechtlichen Grundlagen.
+#### Just for testing purposos. I dont engage in causing trouble anywhere else (TM)

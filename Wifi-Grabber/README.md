@@ -1,9 +1,9 @@
 # WiFi-Grabber
 
 ### wifi_grabber
-Liest alle bekannten WiFi-Verbindungen aus und schreibt sie als .xml-Files auf den Desktop
+Basic - Lists all known WiFi nodes and prints therm as `.xml-files` on desktop
 
 ### wifi_grabber-V2
-Liest alle bekannten WiFi-Verbindungen aus und schickt sie via webhook an webhook.site (Adresse muss eingerichtet werden)
+Advanced - Lists all known WiFi nodes and sends them cia webhook to your set destination
 
-#### Nur für den Einsatz zu Testzwecken unter Beachtung der rechtlichen Grundlagen.
+#### NFor testing purposes only. I don't engage in messing aroung with others.
