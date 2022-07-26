@@ -1,17 +1,18 @@
 # Credentials
-Nutzung außerhalb des eigenen Systems auf eigene Gefahr.
-Ich übernehme keine Verantwortung für Fuckups.
+Usage beyond the own system at own risk.
+I will not take any responsibility for damage caused.
+
 
 ### Harvester1
-Screenshots der fünf zuletzt verwendeten Passwörter über Browser (Firefox)
+Screenshots the last used passwords from Browser (Firefox)
 
 ### Harvester2
-Zip der Screenshots und anschließendes Bereinigen
+Zips then and cleans up afterwards
 
 ### Harvester3
-Exfiltration per hidden PowerShell Mail
+Exfiltration via hidden PowerShell Mail
 
 ### Harvester_firefox
-All-in-One Paket der drei Harvester
+All-in-one script of the three above
 
-#### Nur für den Einsatz zu Testzwecken unter Beachtung der rechtlichen Grundlagen.
+#### Just for testing purposos. I dont engage in causing trouble anywhere else (TM)
