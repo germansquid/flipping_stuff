@@ -1,10 +1,10 @@
 # Troll
-Kleine Speilereien, die keinen Schaden anrichten
+Shenanigans - nothing harmfull here
 
 ### Forkbomb
 cmd-promt Bomb -> Device crash
 
 ### Forkbomb-V2
-cmd-promt Bomb -> Device crash (noch effizienter)
+cmd-promt Bomb -> Device crash (more efficient)
 
-#### Nur für den Einsatz zu Testzwecken unter Beachtung der rechtlichen Grundlagen.
+#### NFor testing purposes only. I don't engage in messing aroung with others.
