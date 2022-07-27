@@ -11,7 +11,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Icon_attention.svg" align="right"
   alt="Attention logo" width="170" height="145"></h1>
 
-<h3> Hi there, this repo is still under construction. I am trying my best to keep up expectations.</h3>
+<h3> Hi there, this repo is still under construction. 
+<br>
+I am trying my best to keep up expectations.</h3>
   <br>
   This place is made for people like me, who are new to Flipper Zero and BadUSB and want to learn how things roll from the beginning. Have a look <a href="https://github.com/germansquid/flipping_stuff/blob/main/casual/flipper_ad.txt">here</a> how things generally work and if you allready know the basics, then have some fun  <a href="https://github.com/germansquid/flipping_stuff/tree/main/credential/harvester">(maybe here)</a>
 <hr>
