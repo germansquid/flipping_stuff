@@ -1,7 +1,7 @@
 DUCKY_LANG DE
-REM @author:germansquid
+REM taken from: UberGuidoZ/Flipper
 REM BadUSB Rick Astin
-REM category: harmless/prank
+REM category: casual
 REM ----------------------------------------
 GUI r
 DELAY 500
@@ -124,7 +124,7 @@ ENTER
 STRING             #    # ######   ##   ###### #    #      ####   ####  #    # #    # #    #
 ENTER
 ENTER
-ENTER                                                       
+ENTER
 STRING                  ####  # #    # ######     #   #  ####  #    #     #    # #####
 ENTER
 STRING                 #    # # #    # #           # #  #    # #    #     #    # #    #

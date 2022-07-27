@@ -1,7 +1,7 @@
 DUCKY_LANG DE
-REM @author:germansquid
-REM BadUSB webbrowser hacker typing
-REM category: harmless/prank
+REM @author:germansquid | Credit for original: UberGuidoZ
+REM Basic Stuff visual stuff via webbrowser
+REM category: casual
 REM ----------------------------------------
 GUI r
 DELAY 500

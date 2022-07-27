@@ -1,5 +1,8 @@
 DUCKY_LANG DE
-
+REM @author:germansquid | Credit for original: Flipper Zero /Firmware included)
+REM Basic Stuff with ASCII for demo purposes
+REM category: casual
+REM ----------------------------------------
 GUI r
 DELAY 500
 STRING notepad
@@ -10,7 +13,7 @@ ENTER
 STRING               _.-------.._                    -,
 ENTER
 HOME
-STRING           .-"```"--..,,_/ /`-,               -,  \ 
+STRING           .-"```"--..,,_/ /`-,               -,  \
 ENTER
 HOME
 STRING        .:"          /:/  /'\  \     ,_...,  `. |  |
@@ -19,7 +22,7 @@ HOME
 STRING       /       ,----/:/  /`\ _\~`_-"`     _;
 ENTER
 HOME
-STRING      '      / /`"""'\ \ \.~`_-'      ,-"'/ 
+STRING      '      / /`"""'\ \ \.~`_-'      ,-"'/
 ENTER
 HOME
 STRING     |      | |  0    | | .-'      ,/`  /
@@ -40,13 +43,13 @@ HOME
 STRING  _L_  _     ___  ___  ___  ___  ____--"`
 ENTER
 HOME
-STRING | __|| |   |_ _|| _ \| _ \| __|| _ \ 
+STRING | __|| |   |_ _|| _ \| _ \| __|| _ \
 ENTER
 HOME
-STRING | _| | |__  | | |  _/|  _/| _| |   / 
+STRING | _| | |__  | | |  _/|  _/| _| |   /
 ENTER
 HOME
-STRING |_|  |____||___||_|  |_|  |___||_|_\ 
+STRING |_|  |____||___||_|  |_|  |___||_|_\
 ENTER
 HOME
 ENTER

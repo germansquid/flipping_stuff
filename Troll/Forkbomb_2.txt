@@ -1,7 +1,6 @@
 DUCKY_LANG DE
 REM Title: Win forkbomb variant 2
 REM Author: FalsePhilosopher
-REM Target: XP-11
 REM Props: Hak5, da3m0n s3c for the one liner, UberGuidoZ for keeping the flipper repo going.
 REM Version: 1.0
 REM Category: Prank
