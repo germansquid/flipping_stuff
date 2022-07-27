@@ -17,7 +17,7 @@ I am trying my best to keep up expectations.</h3>
   <br>
   This place is made for people like me, who are new to Flipper Zero and BadUSB and want to learn how things roll from the beginning. Have a look <a href="https://github.com/germansquid/flipping_stuff/blob/main/casual/flipper_ad.txt">here</a> how things generally work and if you allready know the basics, then have some fun  <a href="https://github.com/germansquid/flipping_stuff/tree/main/credential/harvester">(maybe here)</a>
 <hr>
-Right now there is mainly code and scripts from other authors to see, which is more or less well commented. The examples are chosen to show different techniques and angles and styles to code in. My work for now is limited in documetation, commentary and morphing the code for 'qwertz'-layouts.
+Right now there is mainly code and scripts from other authors to see, which is more or less well commented by me. The examples are chosen to show different techniques and angles and styles to code in. My work for now is limited in documetation, commentary and morphing the code for 'qwertz'-layouts.
 <hr>
 
 ## Disclaimer
