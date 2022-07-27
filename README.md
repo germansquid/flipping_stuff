@@ -1,7 +1,9 @@
 
 
 <h2 align="center">
-  FlippingStuff - A learning/selflearning focussed playground for <a href="https://flipperzero.one">Flipper Zero</a> and BadUSB<br><br>
+  FlippingStuff
+  <br>
+  A learning/selflearning focussed playground for <a href="https://flipperzero.one">Flipper Zero</a> and BadUSB<br><br>
 <hr>
 
 <h2 style="font-size: 80px;"><strong> 
