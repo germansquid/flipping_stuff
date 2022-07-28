@@ -1,11 +1,13 @@
-
-
 <h2 align="center">
   FlippingStuff
   <br>
   A learning/selflearning focussed playground for <a href="https://flipperzero.one">Flipper Zero</a> and BadUSB<br><br>
 <hr>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/germansquid/flipping_stuff?logo=github&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/germansquid/flipping_stuff?logo=github&style=flat-square)
+  
+<hr>
 <h2 style="font-size: 80px;"><strong> 
   UNDER CONSTRUCTION!</strong> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Icon_attention.svg" align="right"
